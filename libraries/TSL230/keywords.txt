@@ -1,0 +1,13 @@
+TSL230	KEYWORD1
+
+setSens1x	KEYWORD2
+setSens10x	KEYWORD2
+setSens100x	KEYWORD2
+setScalingDiv100	KEYWORD2
+setScalingDiv10	KEYWORD2
+setScalingDiv2	KEYWORD2
+setScalingDiv1	KEYWORD2
+getFrequencyMultiplier	KEYWORD2
+getFrequency	KEYWORD2
+addPulse	KEYWORD2
+resetPulseCount	KEYWORD2

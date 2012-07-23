@@ -1,0 +1,6 @@
+TimeKeeper	KEYWORD1
+
+update_elapsed_time	KEYWORD2
+get_elapsed_time	KEYWORD2
+reset	KEYWORD2
+elapsed	KEYWORD2
