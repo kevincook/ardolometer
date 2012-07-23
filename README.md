@@ -1,0 +1,4 @@
+ardolometer
+===========
+
+Arduino Based Intervalometer
